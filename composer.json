@@ -2,7 +2,10 @@
     "name": "articstudio/php-bin-example",
     "type": "project",
     "description": "",
-    "keywords": {},
+    "keywords": [
+        "phpbin",
+        "example"
+    ],
     "homepage": "https://github.com/articstudio/php-bin-example",
     "authors": [
         {
